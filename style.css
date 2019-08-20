@@ -1,0 +1,37 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: silver;
+}
+
+
+.puppyclass{
+    height: 300px;
+    border: 15px blue solid;
+}
+
+.originalpuppy{
+    border: 15px pink dotted;
+    
+}
+
+#kitten_cage{
+    display: inline-block;
+    
+}
+#puppy_palace{
+    display: inline-block;
+}
+#thecat{
+    width: 200px;
+}
+div .tweetybirds{
+    height: 300px;
+}
+
+.tweetybirds{
+    height: 100px;
+}
